@@ -1,6 +1,8 @@
-# Project XYZ
+# London Business Crime analysis
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+**London Business Crime Analysis** is is a personal capstone project focused on the ETL (Extract, Transform, Load) pipeline in Jupyter Notebook and visualisations. 
+
+The project examines business-related crimes (any criminal offense committed by or against a business) across London boroughs, using publicly available police data. The goal of this analysis is to uncover trends in types crimes, identify crime rates in different boroughs and generte insights to inform better resource allocation.
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
