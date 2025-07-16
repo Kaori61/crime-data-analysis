@@ -12,8 +12,9 @@ The project examines business-related crimes (any criminal offense committed by 
 
 
 ## Business Requirements
-* Describe your business requirements
-
+* Monitor borough performance.
+* Identify crime types that need attention.
+* Improve case closure rate.
 
 ## Hypothesis and how to validate?
 * List here your project hypothesis(es) and how you envision validating it (them) 
