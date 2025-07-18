@@ -71,6 +71,7 @@ The project examines business-related crimes (any criminal offence that is commi
 * I had issues activating my Python virtual environment (`.venv`) in Git Bash while using the default MINGW64 shell — VS Code wasn't detecting the environment, and key packages like `pandas` weren't working. After some changes to `.bashrc`, Git Bash began launching in the MSYS shell, which added confusion by showing duplicate prompts like (`.venv`) (`.venv`).
 With help from ChatGPT, I diagnosed the issue, fixed my .bashrc configuration, selected the correct interpreter in VS Code, and installed missing packages like ipykernel.
 * Plotly wasn't working properly on Jupyter Notebook. It kept showing me the error message "nbformat >=4.2.0 isn't installed" even though I had correct version installed. Thanks to two of my fellow students Celia and Jane, who helped me fix this issue. I was able to create Plotly graphs. 
+* I had issues with regression models. The first prediction model didn't include cyclical patterns so the prediction seemed incorrect. I used ChatGPT to create better prediction model to incorporate better feature and able to make prediction with improved R² value. 
 
 ## Deployment
 ### Heroku
