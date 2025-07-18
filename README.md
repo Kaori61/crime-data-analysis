@@ -8,7 +8,7 @@ The project examines business-related crimes (any criminal offence that is commi
 
 
 ## Dataset Content
-* London Business Crime dataset is publically available data that can be downloaded from here [London Datastore](https://data.london.gov.uk/dataset/mps-business-crime-dashboard-data/). The data contains a range of records of crimes such as date, borough, type of crime and more.
+* London Business Crime dataset is publically available data that can be downloaded from here [London Datastore](https://data.london.gov.uk/dataset/mps-business-crime-dashboard-data/). The data contains the last 2 years of a range of crimes such as date, borough, type of crime and more.
 
 
 ## Business Requirements
@@ -17,7 +17,23 @@ The project examines business-related crimes (any criminal offence that is commi
 * Improve case closure rate.
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+1. Certain crime have higher positive outcome rate than others.
+
+   Compare positive outcome rates. 
+
+2. Positive outcome rates are improving over time.
+
+     Line chart of monthly positive outcome.
+
+3. Crime frequency is significantly higher on weekday and during winter months.
+
+    Create visulisation to show the distribution of crimes on weekday and month.
+
+4. The types of common crime differ across boroughs.
+    
+    Visualise types of crime by boroughs.
+
+
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
