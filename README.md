@@ -1,10 +1,11 @@
-# London Business Crime analysis
+<img align="right" width="100" height="50" src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png"> 
+
+# London Business Crime analysis 
 
 **London Business Crime Analysis** is is a personal capstone project focused on the ETL (Extract, Transform, Load) pipeline in Jupyter Notebook and visualisations. 
 
 The project examines business-related crimes (any criminal offence that is committed against a person or property which is associated by the connection of that person or property to a business.) across London boroughs, using publicly available police data. The goal of this analysis is to uncover trends in types crimes, identify crime rates in different boroughs and generte insights to inform better resource allocation.
 
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
 ## Dataset Content
