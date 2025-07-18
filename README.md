@@ -8,9 +8,7 @@ The project examines business-related crimes (any criminal offence that is commi
 
 
 ## Dataset Content
-* Business Crime dataset is publically available data that can be downloaded from here [London Datastore](https://data.london.gov.uk/dataset/mps-business-crime-dashboard-data/)
-* 
-Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
+* London Business Crime dataset is publically available data that can be downloaded from here [London Datastore](https://data.london.gov.uk/dataset/mps-business-crime-dashboard-data/). The data contains a range of records of crimes such as date, borough, type of crime and more.
 
 
 ## Business Requirements
