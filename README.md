@@ -34,8 +34,8 @@ The project examines business-related crimes (any criminal offense committed by 
 * How did you use generative AI tools to help with ideation, design thinking and code optimisation?
 
 ## Ethical considerations
-* Were there any data privacy, bias or fairness issues with the data?
-* How did you overcome any legal or societal issues?
+* This project uses anonymised, publicly available data with no personally identifiable information. Ethical considerations regarding privacy and confidentiality have been fully observed.
+
 
 ## Dashboard Design
 * List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
