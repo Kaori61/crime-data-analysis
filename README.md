@@ -51,6 +51,9 @@ The project examines business-related crimes (any criminal offense committed by 
 ## Development Roadmap
 * What challenges did you face, and what strategies were used to overcome these challenges?
 * What new skills or tools do you plan to learn next based on your project experience? 
+* I had issues activating my Python virtual environment (`.venv`) in Git Bash while using the default MINGW64 shell — VS Code wasn't detecting the environment, and key packages like `pandas` weren't working. After some changes to `.bashrc`, Git Bash began launching in the MSYS shell, which added confusion by showing duplicate prompts like (`.venv`) (`.venv`).
+With help from ChatGPT, I diagnosed the issue, fixed my .bashrc configuration, selected the correct interpreter in VS Code, and installed missing packages like ipykernel.
+
 
 ## Deployment
 ### Heroku
