@@ -53,7 +53,7 @@ The project examines business-related crimes (any criminal offense committed by 
 * What new skills or tools do you plan to learn next based on your project experience? 
 * I had issues activating my Python virtual environment (`.venv`) in Git Bash while using the default MINGW64 shell — VS Code wasn't detecting the environment, and key packages like `pandas` weren't working. After some changes to `.bashrc`, Git Bash began launching in the MSYS shell, which added confusion by showing duplicate prompts like (`.venv`) (`.venv`).
 With help from ChatGPT, I diagnosed the issue, fixed my .bashrc configuration, selected the correct interpreter in VS Code, and installed missing packages like ipykernel.
-
+* Plotly wasn't working properly on Jupyter Notebook. It kept showing me the error message "nbformat >=4.2.0 isn't installed" even though I had correct version installed. Thanks to two of my fellow students Celia and Jane, who helped me fix this issue. I was able to create Plotly graphs. 
 
 ## Deployment
 ### Heroku
