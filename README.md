@@ -72,7 +72,7 @@ The project examines business-related crimes (any criminal offence that is commi
 With help from ChatGPT, I diagnosed the issue, fixed my .bashrc configuration, selected the correct interpreter in VS Code, and installed missing packages like ipykernel.
 * Plotly wasn't working properly on Jupyter Notebook. It kept showing me the error message "nbformat >=4.2.0 isn't installed" even though I had correct version installed. Thanks to two of my fellow students Celia and Jane, who helped me fix this issue. I was able to create Plotly graphs. 
 * I had issues with regression models. The first prediction model didn't include cyclical patterns so the prediction seemed incorrect. I used ChatGPT to create better prediction model to incorporate better feature and able to make prediction with improved R² value. 
-* Raw dataset contians over 400k rows which caused error in pushing update in repository (I didn't realise the data contained over 400k of rows and didn't have problem pushing cimmits before changing the same size dataset). Initially created LFS to manage data size but it was also creating problems.So decided to sample data to make dataset more manageable. 
+* Raw dataset contians over 400k rows which caused error in pushing update in repository (I didn't realise the data contained over 400k of rows and didn't have problem pushing commits before changing the same size dataset). Initially created LFS to manage data size but it was also creating problems.So decided to sample data to make dataset more manageable. 
 
 ## Deployment
 ### Heroku
