@@ -18,21 +18,25 @@ The project examines business-related crimes (any criminal offence that is commi
 * Improve case closure rate.
 
 ## Hypothesis and how to validate?
-1. Certain crime have higher positive outcome rate than others.
+### 1. Certain crime have higher positive outcome rate than others.
 
-   Compare positive outcome rates. 
+How to prove it? - Compare positive outcome rates. 
 
-2. Positive outcome rates are improving over time.
+### 2. Positive outcome rates are improving over time.
 
-     Line chart of monthly positive outcome.
+How to prove it? - Line chart of monthly positive outcome.
 
-3. Crime frequency is significantly higher on weekday and during winter months.
+### 3. Crime frequency is significantly higher on weekday and during winter months.
 
-    Create visulisation to show the distribution of crimes on weekday and month.
+How to prove it? - Create visulisation to show the distribution of crimes on weekday and month.
 
-4. The types of common crime differ across boroughs.
+### 4. The types of common crime differ across boroughs.
     
-    Visualise types of crime by boroughs.
+How to prove it? - Visualise types of crime by boroughs.
+
+<img src="images/hypothesis4viz.png" alt="Common crime in Top10 Boroughs" width="1000"/>
+    
+  *The visualisation disproves the hypothesis. While there are minor variations between boroughs, Theft consistently emerges as the most common type of crime across all areas.* 
 
 
 
