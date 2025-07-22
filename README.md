@@ -4,7 +4,7 @@
 
 **London Business Crime Analysis** is is a personal capstone project focused on the ETL (Extract, Transform, Load) pipeline in Jupyter Notebook and visualisations. 
 
-The project examines business-related crimes (any criminal offence that is committed against a person or property which is associated by the connection of that person or property to a business.) across London boroughs, using publicly available police data. The goal of this analysis is to uncover trends in types crimes, identify crime rates in different boroughs and generte insights to inform better resource allocation.
+The project examines business-related crimes (any criminal offence that is committed against a person or property which is associated by the connection of that person or property to a business.) across London boroughs, using publicly available police data. The goal of this analysis is to uncover trends in types crimes, identify crime rates in different boroughs and generate insights to inform better resource allocation, operational improvement and prediction of seaonal trend.
 
 
 
