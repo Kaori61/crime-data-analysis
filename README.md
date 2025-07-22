@@ -22,6 +22,12 @@ The project examines business-related crimes (any criminal offence that is commi
 
 How to prove it? - Compare positive outcome rates. 
 
+<img src="images/outcome_rate.png" alt="Common crime in Top10 Boroughs" width="600"/> 
+
+The positive outcome refers to crimes that was handled successfully such as offender was charged, fined, cautioned or held accountable.\
+*The graph shows a significant difference between the highest positive outcome rate (Drug Offenses – 63.1%) and the lowest (Vehicle Offenses – 1.2%). This supports the hypothesis that positive outcome rates vary across different types of crime.*
+
+
 ### 2. Positive outcome rates are improving over time.
 
 How to prove it? - Line chart of monthly positive outcome.
