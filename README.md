@@ -22,7 +22,7 @@ The project examines business-related crimes (any criminal offence that is commi
 
 How to prove it? - Compare positive outcome rates. 
 
-<img src="images/outcome_rate.png" alt="Common crime in Top10 Boroughs" width="600"/> 
+<img src="images/outcome_rate.png" alt="Positive outcome comparison" width="600"/> 
 
 The positive outcome refers to crimes that was handled successfully such as offender was charged, fined, cautioned or held accountable.\
 *The graph shows a significant difference between the highest positive outcome rate (Drug Offenses – 63.1%) and the lowest (Vehicle Offenses – 1.2%). This supports the hypothesis that positive outcome rates vary across different types of crime.*
@@ -36,8 +36,8 @@ How to prove it? - Line chart of monthly positive outcome.
 
 How to prove it? - Create visulisation to show the distribution of crimes on weekday and month.
 
-<img src="images/monthlycrime.png" alt="Common crime in Top10 Boroughs" width="500"/> 
-<img src="images/weeklycrime.png" alt="Common crime in Top10 Boroughs" width="400"/>
+<img src="images/monthlycrime.png" alt="Crime frequency by month" width="500"/> 
+<img src="images/weeklycrime.png" alt="Crime frequency by week" width="400"/>
 
 *The visualisation proves that more crimes takes place on weekday adn during the winter months*
 
