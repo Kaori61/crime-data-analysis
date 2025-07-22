@@ -30,6 +30,9 @@ How to prove it? - Line chart of monthly positive outcome.
 
 How to prove it? - Create visulisation to show the distribution of crimes on weekday and month.
 
+<img src="images/monthlycrime.png" alt="Common crime in Top10 Boroughs" width="500"/> 
+<img src="images/weeklycrime.png" alt="Common crime in Top10 Boroughs" width="500"/>
+
 ### 4. The types of common crime differ across boroughs.
     
 How to prove it? - Visualise types of crime by boroughs.
