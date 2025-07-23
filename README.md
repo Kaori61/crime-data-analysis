@@ -57,7 +57,14 @@ How to prove it? - Visualise types of crime by boroughs.
 * Why did you choose the research methodologies you used?
 
 ## The rationale to map the business requirements to the Data Visualisations
-* List your business requirements and a rationale to map them to the Data Visualisations
+* Monitor borough performance.\
+<img src="images/heatmap.png" alt ="Heatmap for crimes that has high resolution rate" width="500"/>\
+*Darker orange colour represents crimes with high resolution rate for specific crime in different borough.* 
+
+* Identify crime types that need attention.
+
+* Improve case closure rate.
+List your business requirements and a rationale to map them to the Data Visualisations
 
 ## Analysis techniques used
 * List the data analysis methods used and explain limitations or alternative approaches.
