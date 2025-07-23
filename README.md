@@ -73,7 +73,7 @@ Darker orange colour represents crimes with high resolution rate for specific cr
 There are 12 different crime types but I wanted to audience focus on the least ones so I made a bar chart with the worst 5*
 
 * Identify day of the week that experience the highest levels of crime.\
-<img src='images/weekday.png' alt = 'Most common day for crime to take place' width ='500'>
+<img src='images/weekday.png' alt = 'Most common day for crime to take place' width ='500'>\
 *This was interesting findings addition to original business requirements. This could be used to guide effective resource allocation, improve operational planning and target interventions.*
 
 ## Analysis techniques used
@@ -85,7 +85,6 @@ There are 12 different crime types but I wanted to audience focus on the least o
 ### Limitations
 * Data contain mostly categorical data which was problematic with statistical analysis. I perfomed feature engineering on those data for them to be able to make statistical calculation with the help of generative AI. I also had problems manipulating some data in Tableau as it wasn't numerical data.
 - I wanted to create a map of the London Borough that shows the different crime rates in Tableau. However, Tableau doesn't contain London borough spatial data as default. I tried to install it in Tableau but wasn't successful. Instead, I created heatmap to show the demographic of crime rates in different locaitons.
-
 
 ### Generative AI
 - I used generative AI to plan a project, brainstorming ideas and aid for code generation and optimisation.
