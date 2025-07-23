@@ -117,7 +117,7 @@ There are 12 different crime types but I wanted to audience focus on the least o
 
 ## Unfixed Bugs
 * As mentioned in the 'Limitations' section, the dataset primarily consists of categorical variables. I aimed to display the percentage of crime outcomes in each tooltip, but some tooltips did not show the correct values. I attempted to recreate the logic and sought help from generative AI tools; however, I was unable to find a reliable solution. I suspect the issue stems from the way I transformed and aggregated the categorical data before visualising it. Despite various attempts, I was unable to resolve the inconsistency in how percentages were calculated and displayed.\
-<img src="images/heatmap.png" alt ='Heatmap' width = '500'>\
+<img src="images/heatmap.png" alt ='Heatmap' width = '500'>
 
 
 ## Development Roadmap
@@ -129,19 +129,6 @@ With help from ChatGPT, I diagnosed the issue, fixed my .bashrc configuration, s
 * I had issues with regression models. The first prediction model didn't include cyclical patterns so the prediction seemed incorrect. I used ChatGPT to create better prediction model to incorporate better feature and able to make prediction with improved R² value. 
 * Raw dataset contians over 400k rows which caused error in pushing update in repository (I didn't realise the data contained over 400k of rows and didn't have problem pushing commits before changing the same size dataset). Initially created LFS to manage data size but it was also creating problems.So decided to sample data to make dataset more manageable. 
 
-## Deployment
-### Heroku
-
-* The App live link is: https://YOUR_APP_NAME.herokuapp.com/ 
-* Set the runtime.txt Python version to a [Heroku-20](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version.
-* The project was deployed to Heroku using the following steps.
-
-1. Log in to Heroku and create an App
-2. From the Deploy tab, select GitHub as the deployment method.
-3. Select your repository name and click Search. Once it is found, click Connect.
-4. Select the branch you want to deploy, then click Deploy Branch.
-5. The deployment process should happen smoothly if all deployment files are fully functional. Click now the button Open App on the top of the page to access your App.
-6. If the slug size is too large then add large files not required for the app to the .slugignore file.
 
 ## Conclusion
 * Write conclusion of the analysis
