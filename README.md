@@ -61,10 +61,12 @@ How to prove it? - Visualise types of crime by boroughs.
 <img src="images/heatmap.png" alt ="Heatmap for crimes that has high resolution rate" width="500"/>\
 *Darker orange colour represents crimes with high resolution rate for specific crime in different borough.* 
 
-* Identify crime types that need attention.
+* Identify crime types that need attention.\
 
-* Improve case closure rate.
-List your business requirements and a rationale to map them to the Data Visualisations
+
+* Improve case closure rate.\
+<img src='images/worst5.png' alt ='Worst 5 resolution rate crimes' width="500"/>\
+*This is the list of crimes with the bottom 5 worst closure rates that needs to improve.*
 
 ## Analysis techniques used
 * List the data analysis methods used and explain limitations or alternative approaches.
