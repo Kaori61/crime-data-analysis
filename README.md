@@ -16,6 +16,7 @@ The project examines business-related crimes (any criminal offence that is commi
 * Monitor borough performance.
 * Identify crime types that need attention.
 * Improve case closure rate.
+* Identify which day of the week experience the highest levels of crime.
 
 ## Hypothesis and how to validate?
 ### 1. Certain crime have higher positive outcome rate than others.
@@ -70,6 +71,10 @@ Darker orange colour represents crimes with high resolution rate for specific cr
 <img src='images/worst5.png' alt ='Worst 5 resolution rate crimes' width="500"/>\
 *This is the list of crimes with the bottom 5 worst closure rates that needs to improve.\
 There are 12 different crime types but I wanted to audience focus on the least ones so I made a bar chart with the worst 5*
+
+* Identify which day of the week experience the highest levels of crime.\
+<img src='images/weekday.png' alt = 'Most common day for crime to take place' width ='500'>
+*This was interesting findings addition to original business requirements. This could be used to guide effective resource allocation, improve operational planning and target interventions.*
 
 ## Analysis techniques used
 * List the data analysis methods used and explain limitations or alternative approaches.
