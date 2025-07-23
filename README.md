@@ -72,15 +72,23 @@ Darker orange colour represents crimes with high resolution rate for specific cr
 *This is the list of crimes with the bottom 5 worst closure rates that needs to improve.\
 There are 12 different crime types but I wanted to audience focus on the least ones so I made a bar chart with the worst 5*
 
-* Identify which day of the week experience the highest levels of crime.\
+* Identify day of the week that experience the highest levels of crime.\
 <img src='images/weekday.png' alt = 'Most common day for crime to take place' width ='500'>
 *This was interesting findings addition to original business requirements. This could be used to guide effective resource allocation, improve operational planning and target interventions.*
 
 ## Analysis techniques used
-* List the data analysis methods used and explain limitations or alternative approaches.
-* How did you structure the data analysis techniques. Justify your response.
-* Did the data limit you, and did you use an alternative approach to meet these challenges?
-* How did you use generative AI tools to help with ideation, design thinking and code optimisation?
+### Data analysis methods used
+- Data cleaning and transformation: Data contains over 400k rows which was causing issue so I sampled data to 10% of original data. Replaced null values with appropriate value. Converted some of the data types into appropriate data types. Checked for errors and typo in the variables. Created new columns for analysis.  
+- Exploratory data analaysis: Used to understand crime distributions by type, borough and time.
+- Statistical analysis: Aggregate data, create statistical comparison to understand if the difference in positive outcome rate is statistically siginificant in different location.Created regression model to predict the crime trend.  
+
+### Limitations
+* Data contain mostly categorical data which was problematic with statistical analysis. I perfomed feature engineering on those data for them to be able to make statistical calculation with the help of generative AI. I also had problems manipulating some data in Tableau as it wasn't numerical data.
+- I wanted to create a map of the London Borough that shows the different crime rates in Tableau. However, Tableau doesn't contain London borough spatial data as default. I tried to install it in Tableau but wasn't successful. Instead, I created heatmap to show the demographic of crime rates in different locaitons.
+
+
+### Generative AI
+- I used generative AI to plan a project, brainstorming ideas and aid for code generation and optimisation.
 
 ## Ethical considerations
 * This project uses anonymised, publicly available data with no personally identifiable information. Ethical considerations regarding privacy and confidentiality have been fully observed.
