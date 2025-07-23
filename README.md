@@ -29,9 +29,13 @@ The positive outcome refers to crimes that was handled successfully such as offe
 *The graph shows a significant difference between the highest positive outcome rate (Drug Offenses – 63.1%) and the lowest (Vehicle Offenses – 1.2%). This supports the hypothesis that positive outcome rates vary across different types of crime.*
 
 
-### 2. Positive outcome rates are improving over time.
+### 2. Number of crimes are decreasing over time.
 
-How to prove it? - Line chart of monthly positive outcome.
+How to prove it? - Line chart of monthly crime case.\
+<img src='images/crime2023.png' alt='Total crime case in 2023' width='500'>\
+<img src='images/crime2024.png' alt ='Total crime case in 2024' width ='500'>\
+*On the top right hand side in Total Crime KPI, those visualisations show the total number of crimes each year. The visualisation disproves that the number of crimes are decreasing over time*
+
 
 ### 3. Crime frequency is significantly higher on weekday and during winter months.
 
@@ -134,7 +138,8 @@ With help from ChatGPT, I diagnosed the issue, fixed my .bashrc configuration, s
 * Write conclusion of the analysis
 
 ## Main Data Analysis Libraries
-* Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
+* 
+Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
 
 
 ## Credits 
