@@ -53,9 +53,25 @@ How to prove it? - Visualise types of crime by boroughs.
 
 
 ## Project Plan
-* Outline the high-level steps taken for the analysis.
-* How was the data managed throughout the collection, processing, analysis and interpretation steps?
-* Why did you choose the research methodologies you used?
+### High-level steps taken for the analysis.
+* Data collection
+* Data cleaning & transformation
+* Exploratory data analysis (EDA)
+* Statistical analysis
+* Dashboard creation
+* Insight generation
+
+### Data management 
+How was the data managed throughout the collection, processing, analysis and interpretation steps?
+* Original data was kept as `raw_data.csv` as a reference.
+* Data processing and calculation was done in Python asn Tableau.
+* During interpretation, key metrics were visualised using bar charts, heatmaps and KPI.
+
+### Rationale for research methodologies
+- Data cleaning & transformation: This is a key preparation before performing any analysis for data integrity and reliability.
+- EDA: I performed EDA to understand the data structure and patterns better so that I could generate meaningful insights from the analysis.
+- Statistical analysis: Create regression model to predic the future trend
+- Dashboard creation: Visualisation is to show key metrics and findings to the stakeholder
 
 ## The rationale to map the business requirements to the Data Visualisations
 * Monitor borough performance.\
