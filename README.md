@@ -116,9 +116,9 @@ There are 12 different crime types but I wanted to audience focus on the least o
 * Explain how the dashboard was designed to communicate complex data insights to different audiences. 
 
 ## Unfixed Bugs
-* Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
-* Did you recognise gaps in your knowledge, and how did you address them?
-* If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
+* As mentioned in the 'Limitations' section, the dataset primarily consists of categorical variables. I aimed to display the percentage of crime outcomes in each tooltip, but some tooltips did not show the correct values. I attempted to recreate the logic and sought help from generative AI tools; however, I was unable to find a reliable solution. I suspect the issue stems from the way I transformed and aggregated the categorical data before visualising it. Despite various attempts, I was unable to resolve the inconsistency in how percentages were calculated and displayed.\
+<img src="images/heatmap.png" alt ='Heatmap' width = '500'>\
+
 
 ## Development Roadmap
 * What challenges did you face, and what strategies were used to overcome these challenges?
