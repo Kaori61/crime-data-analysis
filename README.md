@@ -59,14 +59,17 @@ How to prove it? - Visualise types of crime by boroughs.
 ## The rationale to map the business requirements to the Data Visualisations
 * Monitor borough performance.\
 <img src="images/heatmap.png" alt ="Heatmap for crimes that has high resolution rate" width="500"/>\
-*Darker orange colour represents crimes with high resolution rate for specific crime in different borough.* 
+*Heatmap can show the demographic of crime rates all at once so I decided to use this graph. \
+Darker orange colour represents crimes with high resolution rate for specific crime in different borough.* 
 
-* Identify crime types that need attention.\
-
+* Identify crime type that need attention.\
+<img src ='images/most_common.png' alt ='Most common crime at all time'>\
+*The most common crime doesn't change over time based the analysis I performed therefore, I decided to put the results as KPI*
 
 * Improve case closure rate.\
 <img src='images/worst5.png' alt ='Worst 5 resolution rate crimes' width="500"/>\
-*This is the list of crimes with the bottom 5 worst closure rates that needs to improve.*
+*This is the list of crimes with the bottom 5 worst closure rates that needs to improve.\
+There are 12 different crime types but I wanted to audience focus on the least ones so I made a bar chart with the worst 5*
 
 ## Analysis techniques used
 * List the data analysis methods used and explain limitations or alternative approaches.
