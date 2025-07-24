@@ -170,9 +170,12 @@ Here you should list the libraries you used in the project and provide an exampl
 
 ## Credits 
 
-* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-* You can break the credits section up into Content and Media, depending on what you have included in your project. 
-* [GeekforGeeks](https://www.geeksforgeeks.org/) - used to aid in code generation.
+* [London crime dataset](https://data.london.gov.uk/dataset/mps-business-crime-dashboard-data/) - Datasedt used for analysis.
+* [GeekforGeeks](https://www.geeksforgeeks.org/) - Used to aid in code generation.
+* [ChatGPT](https://chatgpt.com/) - Used to brainstorm ideas and optimise, generate and debugging code.
+* [Microsoft Copilot](https://copilot.microsoft.com/chats/wf7sdTkkf6ywDqvFxCqJQ) - Used Copilit build in Visual Studio Code to optimise and debugging code.
+* [11 Most Favorited Data Visualisations on Tableau Public](https://www.tableau.com/blog/most-favorited-data-visualizations-tableau-public?utm_medium=link&amp;utm_source=Tableau%20Public%20Promo%20Tile) - I got Tableau design inspiration from this article. 
+* [Information mark](https://www.vecteezy.com/vector-art/32184554-info-help-sign-icon-vector-symbol-line-outline-art-black-and-white-information-bubble-speech-mark-isolated-pictogram-image) - Information mark in Tableau was taken from this page.
 
 
 
