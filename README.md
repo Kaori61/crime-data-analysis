@@ -164,7 +164,13 @@ With help from ChatGPT, I diagnosed the issue, fixed my .bashrc configuration, s
 * Crime incidents are most concentrated on Wednesdays and Thursdays, suggesting that increased security presence during midweek may help prevent crimes and better protect business owners.
 
 ## Main Data Analysis Libraries
-* 
+* Pandas - Used this to work with data sorting, filtering etc
+* Numpy - Used this to do calculation with arrays
+* Matplotlib - Created basic plots
+* Seaborn - Created statistical visualisations like heatmap
+* Plotly - Created interactive charts 
+* Scipy - Created statistical analysis
+* Scikit-learn - Used this to create regression model 
 Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
 
 
