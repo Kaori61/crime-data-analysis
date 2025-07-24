@@ -10,7 +10,7 @@
 * [Dashboard](https://public.tableau.com/views/LondonBusinessCrimeAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src='images/toppage.png' alt ='Crime analysis cover image' width='300'>
-<img src='images/toppage.png' alt ='Crime analysis cover image' width='300'>
+
 
 
 **London Business Crime Analysis** is is a personal capstone project focused on the ETL (Extract, Transform, Load) pipeline, exploratory data analysis and statistical analysis in Jupyter Notebook and visualisations in Tableau. 
