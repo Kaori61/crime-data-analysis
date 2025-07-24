@@ -190,5 +190,5 @@ Here you should list the libraries you used in the project and provide an exampl
 Everyone I mention here is very quick to respond to my query. I really appreciate their support when I needed it.
 * Emma Lamont - Course facilitator at Code Institute. She gave me great support and advice whenever I needed.
 * Celia Pires- aka Class Rep. Gave me great assist to fix my bug in the code. 
-* Jane weightman - aka the Brain. Very knowledgeable and supportive, helped me fix my bug, advice on image creation and inspirtion on navigation button.
+* Jane Weightman - aka the Brain. Very knowledgeable and supportive, helped me fix my bug, advice on image creation and inspirtion on navigation button.
 
