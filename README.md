@@ -10,9 +10,7 @@
 * [Dashboard](https://public.tableau.com/views/LondonBusinessCrimeAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src='images/toppage.png' alt ='Crime analysis cover image' width='300'>
-
-[![test](images/toppage.png)](images/toppage.png)
-
+<img src='images/toppage.png' alt ='Crime analysis cover image' width='300'>
 
 
 **London Business Crime Analysis** is is a personal capstone project focused on the ETL (Extract, Transform, Load) pipeline, exploratory data analysis and statistical analysis in Jupyter Notebook and visualisations in Tableau. 
@@ -156,6 +154,7 @@ Business crime and posiitve outcome can be misleading so I created infomation bu
 * As mentioned in the 'Limitations' section, the dataset primarily consists of categorical variables. I aimed to display the percentage of crime outcomes in each tooltip, but some tooltips did not show the correct values. I attempted to recreate the logic and sought help from generative AI tools; however, I was unable to find a reliable solution. I suspect the issue stems from the way I transformed and aggregated the categorical data before visualising it. Despite various attempts, I was unable to resolve the inconsistency in how percentages were calculated and displayed.\
 <img src="images/heatmap.png" alt ='Heatmap' width = '500'>
 
+* My VS code preview is showing me the correct view but my GitHub README isn't loading the image correctly. The image doesn't load correctly when I open the page. When I click the image icon, it gives me error but when I go to image folder, the image shows corrctly. I asked for solution to ChatGPT but the things mentioned were already in place. As this happened just before the deadline, I do not have time to fix this issue unfortunately.  
 
 ## Development Roadmap
 * I had issues activating my Python virtual environment (`.venv`) in Git Bash while using the default MINGW64 shell — VS Code wasn't detecting the environment, and key packages like `pandas` weren't working. After some changes to `.bashrc`, Git Bash began launching in the MSYS shell, which added confusion by showing duplicate prompts like (`.venv`) (`.venv`).
