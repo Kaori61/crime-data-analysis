@@ -114,11 +114,31 @@ There are 12 different crime types but I wanted to audience focus on the least o
 
 
 ## Dashboard Design
-* List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
-* Later, during the project development, you may revisit your dashboard plan to update a given feature (for example, at the beginning of the project you were confident you would use a given plot to display an insight but subsequently you used another plot type).
-* How were data insights communicated to technical and non-technical audiences?
-* Explain how the dashboard was designed to communicate complex data insights to different audiences. 
-[Business Crime Trends in London](https://public.tableau.com/views/LondonBusinessCrimeAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### Access to my dashboard from here: [Business Crime Trends in London](https://public.tableau.com/views/LondonBusinessCrimeAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### Overview of dahsboard
+I wanted to use consistent colour scheme to make the informstion easy to digest. I used highlighter to emphasise the focus point on each graph.
+
+<img src='images/dashboard.png' alt='Dashboard image' width='1000'>
+
+### Filter 
+When viewer select the year, the graphs and KPIs show the correspondent result. As a default, the dahsboard shows overall results between 2023 and 2024.
+
+<img src='images/d2023.png' alt='Filter year' width='800'> 
+
+
+
+Similary to the filter above, when the viewer select the borough, graphs and KPI change accordingly.
+
+
+<img src='images/borough_filter.png' alt='Filter borough' width='800'>
+
+ 
+### Information button
+Business crime and posiitve outcome can be misleading so I created infomation button that describe what they mean for accesssibility. When audience hover over the info icon, it'll show the meaning of those terms.
+<img src='images/info_business.png' alt='Business crime info' width ='800'>
+<img src='images/info_positive.png' alt='Positive outcome info' width='600'>
+
+
 ## Unfixed Bugs
 * As mentioned in the 'Limitations' section, the dataset primarily consists of categorical variables. I aimed to display the percentage of crime outcomes in each tooltip, but some tooltips did not show the correct values. I attempted to recreate the logic and sought help from generative AI tools; however, I was unable to find a reliable solution. I suspect the issue stems from the way I transformed and aggregated the categorical data before visualising it. Despite various attempts, I was unable to resolve the inconsistency in how percentages were calculated and displayed.\
 <img src="images/heatmap.png" alt ='Heatmap' width = '500'>
