@@ -11,7 +11,7 @@
 
 <img src='images/toppage.png' alt ='Crime analysis cover image' width='300'>
 
-![test](images/toppage.png)
+[![test](images/toppage.png)](images/toppage.png)
 
 
 
