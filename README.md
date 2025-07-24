@@ -1,6 +1,15 @@
 <img align="right" width="100" height="50" src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png"> 
 
 # London Business Crime analysis 
+### Navigation
+* [README](https://github.com/Kaori61/crime-data-analysis/blob/main/README.md)
+* [Clean data](https://github.com/Kaori61/crime-data-analysis/blob/main/dataset/data_cleaned.csv)
+* [Raw data](https://github.com/Kaori61/crime-data-analysis/blob/main/dataset/raw_data.csv)
+* [Exploratory data analysis (EDA)](https://github.com/Kaori61/crime-data-analysis/blob/main/jupyter_notebooks/exploratory_data_analysis.ipynb)
+* [Statistical analysis](https://github.com/Kaori61/crime-data-analysis/blob/main/jupyter_notebooks/statistical_analysis.ipynb)
+* [Dashboard](https://public.tableau.com/views/LondonBusinessCrimeAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img src='images/toppage.png' alt ='Crime analysis cover image' width='300'>
 
 **London Business Crime Analysis** is is a personal capstone project focused on the ETL (Extract, Transform, Load) pipeline, exploratory data analysis and statistical analysis in Jupyter Notebook and visualisations in Tableau. 
 
