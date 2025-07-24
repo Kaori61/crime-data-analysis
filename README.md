@@ -134,7 +134,7 @@ Similary to the filter above, when the viewer select the borough, graphs and KPI
 
  
 ### Information button
-Business crime and posiitve outcome can be misleading so I created infomation button that describe what they mean for accesssibility. When audience hover over the info icon, it'll show the meaning of those terms.
+Business crime and posiitve outcome can be misleading so I created infomation button that describe what they mean for accesssibility. When audience hover over the info icon, it'll show the meaning of those terms.git 
 <img src='images/info_business.png' alt='Business crime info' width ='800'>
 <img src='images/info_positive.png' alt='Positive outcome info' width='600'>
 
@@ -153,7 +153,15 @@ With help from ChatGPT, I diagnosed the issue, fixed my .bashrc configuration, s
 
 
 ## Conclusion
-* Write conclusion of the analysis
+* The total number of crimes increased by 3.7% from 2023 to 2024, while the positive outcome rate slightly declined by 0.4%. This may indicate a growing demand that is not being met by available enforcement resources.
+
+* Westminster remains the borough with the highest crime volume in both years. Strengthening security measures in this area could help reduce overall crime figures.
+
+* Theft continues to be the most common crime type, with little change year over year. Notably, theft also appears among the bottom 5 crime types for positive outcome rate, suggesting that this category warrants deeper investigation to identify patterns or trends that could improve resolution rates.
+
+* Drug offences consistently show high positive outcome rates, indicating effective operations. Insights or operational strategies from this area could be adapted or shared to improve performance in lower-performing categories.
+
+* Crime incidents are most concentrated on Wednesdays and Thursdays, suggesting that increased security presence during midweek may help prevent crimes and better protect business owners.
 
 ## Main Data Analysis Libraries
 * 
