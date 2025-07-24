@@ -34,7 +34,7 @@ The project examines business-related crimes (any criminal offence that is commi
 
 How to prove it? - Compare positive outcome rates. 
 
-<img src="mages/outcome_rate.png" alt="Positive outcome comparison" width="600"/> 
+<img src="Images/outcome_rate.png" alt="Positive outcome comparison" width="600"/> 
 
 The positive outcome refers to crimes that was handled successfully such as offender was charged, fined, cautioned or held accountable.\
 *The graph shows a significant difference between the highest positive outcome rate (Drug Offenses – 63.1%) and the lowest (Vehicle Offenses – 1.2%). This supports the hypothesis that positive outcome rates vary across different types of crime.*
@@ -43,8 +43,8 @@ The positive outcome refers to crimes that was handled successfully such as offe
 ### 2. Number of crimes are decreasing over time.
 
 How to prove it? - Line chart of monthly crime case.\
-<img src='images/crime2023.png' alt='Total crime case in 2023' width='500'>\
-<img src='images/crime2024.png' alt ='Total crime case in 2024' width ='500'>\
+<img src='Images/crime2023.png' alt='Total crime case in 2023' width='500'>\
+<img src='Images/crime2024.png' alt ='Total crime case in 2024' width ='500'>\
 *On the top right hand side in Total Crime KPI, those visualisations show the total number of crimes each year. The visualisation disproves that the number of crimes are decreasing over time*
 
 
@@ -52,8 +52,8 @@ How to prove it? - Line chart of monthly crime case.\
 
 How to prove it? - Create visulisation to show the distribution of crimes on weekday and month.
 
-<img src="images/monthlycrime.png" alt="Crime frequency by month" width="500"/> 
-<img src="images/weeklycrime.png" alt="Crime frequency by week" width="400"/>
+<img src="Images/monthlycrime.png" alt="Crime frequency by month" width="500"/> 
+<img src="Images/weeklycrime.png" alt="Crime frequency by week" width="400"/>
 
 *The visualisation proves that more crimes takes place on weekday adn during the winter months*
 
@@ -61,7 +61,7 @@ How to prove it? - Create visulisation to show the distribution of crimes on wee
     
 How to prove it? - Visualise types of crime by boroughs.
 
-<img src="images/hypothesis4viz.png" alt="Common crime in Top10 Boroughs" width="1000"/>
+<img src="Images/hypothesis4viz.png" alt="Common crime in Top10 Boroughs" width="1000"/>
     
   *The visualisation disproves the hypothesis. While there are minor variations between boroughs, Theft consistently emerges as the most common type of crime across all areas.* 
 
@@ -90,21 +90,21 @@ How was the data managed throughout the collection, processing, analysis and int
 
 ## The rationale to map the business requirements to the Data Visualisations
 * Monitor borough performance.\
-<img src="images/heatmap.png" alt ="Heatmap for crimes that has high resolution rate" width="500"/>\
+<img src="Images/heatmap.png" alt ="Heatmap for crimes that has high resolution rate" width="500"/>\
 *Heatmap can show the demographic of crime rates all at once so I decided to use this graph. \
 Darker orange colour represents crimes with high resolution rate for specific crime in different borough.* 
 
 * Identify crime type that need attention.\
-<img src ='images/most_common.png' alt ='Most common crime at all time'>\
+<img src ='Images/most_common.png' alt ='Most common crime at all time'>\
 *The most common crime doesn't change over time based the analysis I performed therefore, I decided to put the results as KPI*
 
 * Improve case closure rate.\
-<img src='images/worst5.png' alt ='Worst 5 resolution rate crimes' width="500"/>\
+<img src='Images/worst5.png' alt ='Worst 5 resolution rate crimes' width="500"/>\
 *This is the list of crimes with the bottom 5 worst closure rates that needs to improve.\
 There are 12 different crime types but I wanted to audience focus on the least ones so I made a bar chart with the worst 5*
 
 * Identify day of the week that experience the highest levels of crime.\
-<img src='images/weekday.png' alt = 'Most common day for crime to take place' width ='500'>\
+<img src='Images/weekday.png' alt = 'Most common day for crime to take place' width ='500'>\
 *This was interesting findings addition to original business requirements. This could be used to guide effective resource allocation, improve operational planning and target interventions.*
 
 ## Analysis techniques used
@@ -129,32 +129,31 @@ There are 12 different crime types but I wanted to audience focus on the least o
 ### Overview of dahsboard
 I wanted to use consistent colour scheme to make the informstion easy to digest. I used highlighter to emphasise the focus point on each graph.
 
-<img src='images/dashboard.png' alt='Dashboard image' width='1000'>
+<img src='Images/dashboard.png' alt='Dashboard image' width='1000'>
 
 ### Filter 
 When viewer select the year, the graphs and KPIs show the correspondent result. As a default, the dahsboard shows overall results between 2023 and 2024.
 
-<img src='images/d2023.png' alt='Filter year' width='800'> 
+<img src='Images/d2023.png' alt='Filter year' width='800'> 
 
 
 
 Similary to the filter above, when the viewer select the borough, graphs and KPI change accordingly.
 
 
-<img src='images/borough_filter.png' alt='Filter borough' width='800'>
+<img src='Images/borough_filter.png' alt='Filter borough' width='800'>
 
  
 ### Information button
 Business crime and posiitve outcome can be misleading so I created infomation button that describe what they mean for accesssibility. When audience hover over the info icon, it'll show the meaning of those terms.git 
-<img src='images/info_business.png' alt='Business crime info' width ='800'>
-<img src='images/info_positive.png' alt='Positive outcome info' width='600'>
+<img src='Images/info_business.png' alt='Business crime info' width ='800'>
+<img src='Images/info_positive.png' alt='Positive outcome info' width='600'>
 
 
 ## Unfixed Bugs
 * As mentioned in the 'Limitations' section, the dataset primarily consists of categorical variables. I aimed to display the percentage of crime outcomes in each tooltip, but some tooltips did not show the correct values. I attempted to recreate the logic and sought help from generative AI tools; however, I was unable to find a reliable solution. I suspect the issue stems from the way I transformed and aggregated the categorical data before visualising it. Despite various attempts, I was unable to resolve the inconsistency in how percentages were calculated and displayed.\
-<img src="images/heatmap.png" alt ='Heatmap' width = '500'>
+<img src="Images/heatmap.png" alt ='Heatmap' width = '500'>
 
-* My VS code preview is showing me the correct view but my GitHub README isn't loading the image correctly. The image doesn't load correctly when I open the page. When I click the image icon, it gives me error but when I go to image folder, the image shows corrctly. I asked for solution to ChatGPT but the things mentioned were already in place. As this happened just before the deadline, I do not have time to fix this issue unfortunately.  
 
 ## Development Roadmap
 * I had issues activating my Python virtual environment (`.venv`) in Git Bash while using the default MINGW64 shell — VS Code wasn't detecting the environment, and key packages like `pandas` weren't working. After some changes to `.bashrc`, Git Bash began launching in the MSYS shell, which added confusion by showing duplicate prompts like (`.venv`) (`.venv`).
@@ -203,4 +202,5 @@ Everyone I mention here is very quick to respond to my query. I really appreciat
 * Emma Lamont - Course facilitator at Code Institute. She gave me great support and advice whenever I needed.
 * Celia Pires- aka Class Rep. Gave me great assist to fix my bug in the code. 
 * Jane Weightman - aka the Brain. Very knowledgeable and supportive, helped me fix my bug, advice on image creation and inspirtion on navigation button.
+* Andrei Bitca - aka life saver. Found last minute bug and Andrei was able to point out what was wrong with my code.
 
