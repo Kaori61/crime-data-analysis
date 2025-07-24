@@ -170,7 +170,7 @@ Here you should list the libraries you used in the project and provide an exampl
 
 ## Credits 
 
-* [London crime dataset](https://data.london.gov.uk/dataset/mps-business-crime-dashboard-data/) - Datasedt used for analysis.
+* [London crime dataset](https://data.london.gov.uk/dataset/mps-business-crime-dashboard-data/) - Dataset used for analysis.
 * [GeekforGeeks](https://www.geeksforgeeks.org/) - Used to aid in code generation.
 * [ChatGPT](https://chatgpt.com/) - Used to brainstorm ideas and optimise, generate and debugging code.
 * [Microsoft Copilot](https://copilot.microsoft.com/chats/wf7sdTkkf6ywDqvFxCqJQ) - Used Copilit build in Visual Studio Code to optimise and debugging code.
@@ -179,18 +179,10 @@ Here you should list the libraries you used in the project and provide an exampl
 
 
 
-### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+## Acknowledgements 
+Everyone I mention here is very quick to respond to my query. I really appreciate their support when I needed it.
+* Emma Lamont - Course facilitator at Code Institute. She gave me great support and advice whenever I needed.
+* Celia Pires- aka Class Rep. Gave me great assist to fix my bug in the code. 
+* Jane weightman - aka the Brain. Very knowledgeable and supportive, helped me fix my bug and advice on image creation.
 
-### Media
-
-- The photos used on the home and sign-up page are from This Open-Source site
-- The images used for the gallery page were taken from this other open-source site
-
-
-
-## Acknowledgements (optional)
-* Thank the people who provided support through this project.
