@@ -162,7 +162,7 @@ Operational planning could benefit from mid‑week resourcing adjustments.
 
 * Organising the workflow into clear modules (cleaning, EDA, modelling, dashboards) made the project easier to follow and maintain, reflecting how real analytics pipelines are structured.
 
-* Handling a dataset originally over 400k rows required efficient techniques such as sampling, aggregation, and datatype optimisation to maintain performance without losing meaningful patterns.
+* Handling a dataset originally over 41k rows required efficient techniques such as sampling, aggregation, and datatype optimisation to maintain performance without losing meaningful patterns.
 
 * Designing the dashboard reinforced the importance of pairing high‑level KPIs with detailed breakdowns, ensuring both strategic stakeholders and operational teams can quickly access the insights they need.
 
