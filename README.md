@@ -2,7 +2,7 @@
 
 # London Business Crime Analysis 
 
-<img src='Images/presentation.png' alt ='Crime analysis cover image' width='600'>
+<img src='Images/presentation.png' alt ='Crime analysis cover image'>
 
 ### Navigation
 
@@ -12,11 +12,11 @@
 * [Data Cleaning & Preparation](#data-cleaning--preparation)
 * [Exploratory Analysis Highlights](#exploratory-analysis-highlights)
 * [Modelling Approach](#modelling-approach)
-* [Dashboard](#dashboard)|
+* [Dashboard](#dashboard)
 * [Final Insights](#final-insights)
-* [For Recruiters](#for-recruiters)
 * [How to Run](#how-to-run)
 * [Reflection](#reflection)
+* [For Recruiters](#for-recruiters)
 * [Links](#links)
 
 
@@ -138,17 +138,6 @@ Theft deserves focused attention due to both volume and poor outcomes.
 
 Operational planning could benefit from mid‑week resourcing adjustments.
 
-## For Recruiters
-
-This project demonstrates: 
-
-The ability to take **raw data** → **insights** → **model** → **dashboard**.
-
-Skills in cleaning, aggregating, analysing, and visualising real‑world data.
-
-Clear business thinking around crime trends, operational performance, and resource allocation.
-
-A professional, reproducible workflow.
 
 ## How to Run
 
@@ -176,6 +165,18 @@ A professional, reproducible workflow.
 * Handling a dataset originally over 400k rows required efficient techniques such as sampling, aggregation, and datatype optimisation to maintain performance without losing meaningful patterns.
 
 * Designing the dashboard reinforced the importance of pairing high‑level KPIs with detailed breakdowns, ensuring both strategic stakeholders and operational teams can quickly access the insights they need.
+
+## For Recruiters
+
+This project demonstrates: 
+
+The ability to take **raw data** → **insights** → **model** → **dashboard**.
+
+Skills in cleaning, aggregating, analysing, and visualising real‑world data.
+
+Clear business thinking around crime trends, operational performance, and resource allocation.
+
+A professional, reproducible workflow.
 
 ## Links
 
